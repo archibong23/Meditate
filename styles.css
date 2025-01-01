@@ -15,6 +15,7 @@ body {
     border-radius: 15px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Subtle shadow */
     max-width: 600px;
+    text-align: center;
 }
 
 .heading {
@@ -36,6 +37,7 @@ body {
     color: #6b4e71; /* Accent color for the verse reference */
 }
 
+/* Highlight styles */
 .highlight {
     font-weight: bold;
 }
